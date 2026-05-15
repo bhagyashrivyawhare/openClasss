@@ -8,7 +8,6 @@ const firebaseConfig = {
   appId: "1:955552487309:web:1ab0dd042529032ad20fc4",
   measurementId: "G-JESQ4M5X6T"
 };
-
 export const emailConfig = {
     serviceID: "service_djr1n0f",
     templateID: "template_tiqnb53",
